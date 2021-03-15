@@ -5,5 +5,10 @@
 4. space_invaders.py : Training loop for space inavders
 
 # Details : 
-DQN is a deep reinforcement learning algorithm which was a breakthrough by open AI. This repository solely aims to implement the DQN for multiple games in pytorch.
+DQN is a deep reinforcement learning algorithm which was a breakthrough by open AI. This section solely aims to implement the DQN for multiple games in pytorch.
 
+DQN overcomes unstable learning by mainly 4 techniques.
+  *Experience Replay
+  *Target Network
+  *Clipping Rewards
+  *Skipping Frames
