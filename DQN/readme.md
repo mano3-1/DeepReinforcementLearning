@@ -4,6 +4,6 @@
 3. cartpole.py : Training loop for cartpole
 4. space_invaders.py : Training loop for space inavders
 
-#Details : 
+# Details : 
 DQN is a deep reinforcement learning algorithm which was a breakthrough by open AI. This repository solely aims to implement the DQN for multiple games in pytorch.
 
