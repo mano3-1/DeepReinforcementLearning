@@ -6,9 +6,8 @@
 
 # Details : 
 DQN is a deep reinforcement learning algorithm which was a breakthrough by open AI. This section solely aims to implement the DQN for multiple games in pytorch.
-
 DQN overcomes unstable learning by mainly 4 techniques. </br>
-  1.Experience Replay </br>
-  2.Target Network  </br>
-  3.Clipping Rewards </br>
-  4.Skipping Frames </br>
+  1. Experience Replay </br>
+  2. Target Network  </br>
+  3. Clipping Rewards </br>
+  4. Skipping Frames </br>
