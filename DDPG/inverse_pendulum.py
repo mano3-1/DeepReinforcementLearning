@@ -12,7 +12,7 @@ agent = DDPG(0.0005, 0.005, 0.9, (3,), (1,), 2)
 n_games = 10000
 scores = []
 eps_history = []
-prev_max_avg_score = 0
+prev_max_avg_score = -float("inf")
 for i in range(n_games):
     score = 0
     done = False
